@@ -1,1 +1,1 @@
-# Arduino-DC
+# This code controls a DC motor with encoder. P control is written for control purpose. From its gui 2 operation modes can be selected, one of them controls the DC motor with a range of -60 to 60 Degrees and the other mode controls it with a range of -30 to 30 degrees.
